@@ -9,7 +9,7 @@
 ## Data Visualization
 First I examined the data buy checking if there is any null values in the data, duplicates and some graphs of how many repeated questions are there in the data set.
 
-![Repeated_questions_graph]{/NLP_QUESTIONS/each_que_no_rep.png}
+![Repeated_questions_graph]{../NLP_QUESTIONS/each_que_no_rep.png}
 
 ## Data Engineering 
 Added the length (each indivuadial letters) of each questions to the data frame
